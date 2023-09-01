@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekstopLive", "DekstopLive.csproj", "{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Debug|x64.ActiveCfg = Debug|x64
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Debug|x64.Build.0 = Debug|x64
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Release|x64.ActiveCfg = Release|x64
+		{D97545BC-5D7F-49D2-8C2A-718DD6F1DAC1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7416B50D-4334-4D51-8982-B841094864A9}
+	EndGlobalSection
+EndGlobal
